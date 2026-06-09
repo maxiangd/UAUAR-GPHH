@@ -1,0 +1,44 @@
+NOMBRE : real_world
+ COMENTARIO : Real-world agricultural field data for single-UAV battery routing
+ VERTICES : 21
+ ARISTAS_REQ : 33
+ ARISTAS_NOREQ : 0
+ VEHICULOS : 1
+ CAPACIDAD : 200
+ TIPO_COSTES_ARISTAS : EXPLICITOS
+ COSTE_TOTAL_REQ : 317
+ LISTA_ARISTAS_REQ :
+ ( 1, 2)  coste 5 demanda 7
+ ( 2, 3)  coste 9 demanda 11
+ ( 2, 6)  coste 3 demanda 3
+ ( 2, 16)  coste 12 demanda 15
+ ( 2, 17)  coste 17 demanda 21
+ ( 3, 5)  coste 8 demanda 10
+ ( 3, 6)  coste 8 demanda 8
+ ( 3, 13)  coste 11 demanda 11
+ ( 3, 17)  coste 11 demanda 14
+ ( 4, 5)  coste 5 demanda 6
+ ( 4, 13)  coste 10 demanda 10
+ ( 5, 17)  coste 7 demanda 8
+ ( 6, 7)  coste 19 demanda 15
+ ( 6, 12)  coste 10 demanda 8
+ ( 6, 13)  coste 15 demanda 15
+ ( 7, 8)  coste 3 demanda 3
+ ( 7, 9)  coste 7 demanda 5
+ ( 7, 10)  coste 7 demanda 6
+ ( 7, 12)  coste 10 demanda 8
+ ( 10, 11)  coste 19 demanda 15
+ ( 11, 12)  coste 15 demanda 12
+ ( 12, 13)  coste 22 demanda 22
+ ( 13, 14)  coste 8 demanda 8
+ ( 15, 16)  coste 8 demanda 12
+ ( 15, 18)  coste 4 demanda 6
+ ( 15, 19)  coste 11 demanda 16
+ ( 16, 17)  coste 7 demanda 10
+ ( 16, 19)  coste 5 demanda 8
+ ( 16, 20)  coste 12 demanda 18
+ ( 17, 20)  coste 7 demanda 10
+ ( 18, 19)  coste 10 demanda 15
+ ( 19, 20)  coste 9 demanda 14
+ ( 19, 21)  coste 3 demanda 5
+ DEPOSITO :   1
